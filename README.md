@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+
 - 🔭 I’m currently working on Scratchernoids
 - 🌱 I’m currently learning Vietnamese
 - 👯 I’m looking to collaborate on anyone
@@ -9,4 +10,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ate a baguette in 1 minute!
 ##I made this fomy GitHub profile
+
 -->
